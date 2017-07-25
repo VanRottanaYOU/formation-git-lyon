@@ -1,3 +1,3 @@
 # formation-git-lyon
-personal reposetory 
+personal repository 
 test conflit
